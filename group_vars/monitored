@@ -1,0 +1,3 @@
+---
+
+datadog_api_key: "{{ lookup('passwordstore', 'datadoghq.com/api-key') }}"

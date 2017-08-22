@@ -8,7 +8,7 @@ Install
 As external Playbook currently [`mongrelion.docker`](https://galaxy.ansible.com/mongrelion/docker/) is required. Since it's licensed under MIT license it's not included in this repository.
 
 ```
-ansible-galaxy install -p roles mongrelion.docker
+ansible-galaxy install -p roles mongrelion.docker Datadog.datadog
 ```
 
 

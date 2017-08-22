@@ -1,0 +1,5 @@
+---
+- hosts: monitored
+  roles:
+    #- common
+    - Datadog.datadog

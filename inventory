@@ -1,7 +1,13 @@
-test01.andromeda.shivering-isles.com
+#test01.andromeda.shivering-isles.com
 
 [nextcloud]
-test01.andromeda.shivering-isles.com
+#test01.andromeda.shivering-isles.com
 
 [mumble]
-test01.andromeda.shivering-isles.com
+#test01.andromeda.shivering-isles.com
+
+[monitored]
+#test01.andromeda.shivering-isles.com
+
+[blog]
+#test01.andromeda.shivering-isles.com

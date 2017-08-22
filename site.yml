@@ -2,3 +2,4 @@
 
 - include: mumble.yml
 - include: nextcloud.yml
+- include: monitoring.yml
