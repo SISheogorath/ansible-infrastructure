@@ -1,0 +1,13 @@
+localhost ansible_connection=local
+
+[nextcloud]
+localhost
+
+[mumble]
+localhost
+
+[blog]
+localhost
+
+[pad]
+localhost
